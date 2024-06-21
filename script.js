@@ -1,25 +1,25 @@
 import gsap from "https://esm.sh/gsap";
 const data = [
     {
-        place:'Leaderboard',
-        title:'1st Place',
+        place:'Skill-set',
+        title:'Draft 1',
         title2:'',
-        description:'User 1',
+        description:'Main User',
         // image:'https://assets.codepen.io/3685267/timed-cards-1.jpg'
         image:"a2.jpg"
     },
     {
-        place:'Leaderboard',
-        title:'2nd Place',
+        place:'Skill-set',
+        title:'Draft 2',
         title2:'',
-        description:'User 2',
+        description:'Main User',
         image:'a2.jpg'
     },
     {
-        place:'Leaderboard',
-        title:'3rd Place',
+        place:'Skill-set',
+        title:'Draft 3',
         title2:'',
-        description:'User 3',
+        description:'Main User',
         image:'a2.jpg'
     },
     // {
